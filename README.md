@@ -1,7 +1,7 @@
 # Recommendation-Engine-with-IBM
 
 # Project Motivation
-In this notebook, we implement a recommendation engine for the IBM Watson Studio Platform which consists of articles and user interactions with those articles. We develop our recommendation engine based on 3 different levels of complexities. 
+In this notebook, we implement a recommendation engine for the IBM Watson Studio Platform which consists of articles and user interactions with those articles. We develop our recommendation engine based on 3 different levels of complexities:
 1. Simply using filters and rank based recommendations (Knowledge based recommendations)<br />
 2. Looking at user-user based collaborative filtering recommendations (Algorithm for the computation and assessment of user-user similarity score)<br />
 3. Using Singular Value Decomposition algorithm for predictions on users (Content based Recommendation)<br />
@@ -16,9 +16,10 @@ The project is broken down in the Jupyter notebook as follows:
 I. Exploratory Data Analysis <br />
 II. Rank Based Recommendations <br />
 III. User-User Based Collaborative Filtering <br />
-IV. Cold start Problem <br />
+IV. Cold start Problem with suggestions of improvement using NLP on article data for alternative content based recommendations <br />
 V. Matrix Factorization <br />
 VI. Performance of SVD <br />
+
 
 
 # Licensing, Authors, Acknowledgements
