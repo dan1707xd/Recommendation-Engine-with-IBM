@@ -16,7 +16,7 @@ The project is broken down in the Jupyter notebook as follows:
 I. Exploratory Data Analysis <br />
 II. Rank Based Recommendations <br />
 III. User-User Based Collaborative Filtering <br />
-IV. Cold start Problem with suggestions of improvement using NLP on article data for alternative content based recommendations <br />
+IV. Cold start Problem with suggestions of improvement using NLP and ML pipeline on article data for alternative content based recommendations <br />
 V. Matrix Factorization <br />
 VI. Performance of SVD <br />
 
